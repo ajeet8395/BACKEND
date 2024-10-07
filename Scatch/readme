@@ -1,0 +1,20 @@
+what we have user details(usermodel)
+full name - string
+email - string 
+password - string
+cart - array
+isadmin - boolean
+orders - array
+contact - number
+picture - db
+
+
+
+what we have product details(productmodel)
+images
+name
+price
+discount
+bgcolor
+panelcolor
+textcolor
